@@ -21,7 +21,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header {
     text-align: center;
@@ -57,7 +57,7 @@
 
 .row__checkbox,
 .row__input,
-.btn{
+.btn {
   outline: none;
 }
 
