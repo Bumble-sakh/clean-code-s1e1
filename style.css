@@ -77,7 +77,7 @@
 
 /* Heading */
 
-h2 {
+.section__header {
   color: #333;
   font-weight: 700;
   font-size: 15px;
